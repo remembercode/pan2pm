@@ -1,0 +1,25 @@
+{
+  "name": "pan2pm",
+  "version": "0.1.0",
+  "description": "pass the buck to product manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remembercode/pan2pm.git"
+  },
+  "keywords": [
+    "pm"
+  ],
+  "author": "WangBing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remembercode/pan2pm/issues"
+  },
+  "homepage": "https://github.com/remembercode/pan2pm#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
