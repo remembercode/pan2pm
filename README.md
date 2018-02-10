@@ -7,3 +7,16 @@ pass the buck to product manager ...
 1. single page demo with vue.js(database only in session)
 1. todo
 
+## design
+1. model
+	1. pm	
+			product manager
+			consumer role
+	1. pan
+			the product
+			the requirements from others to pm
+	1. others
+			others: ceo, cto, developer, user ...
+			pepole who supply the requirements
+1. sample
+		todo
